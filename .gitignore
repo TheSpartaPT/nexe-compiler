@@ -118,3 +118,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+.env
+
+build/
+tmp/
+package-lock.json
+nexe-compiler.exe

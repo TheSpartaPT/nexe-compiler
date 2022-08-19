@@ -1,0 +1,15 @@
+{
+  "name": "nexe-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "env-smart": "^2.2.5",
+    "nexe": "^4.0.0-rc.1"
+  },
+  "author": "Pedro Silva",
+  "license": "CC-BY-NC-ND-4.0"
+}
